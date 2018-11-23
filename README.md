@@ -14,6 +14,7 @@ This repository contains material related to Udacity's [Deep Learning Nanodegree
 * [StudentAdmissionsKeras](https://github.com/Zenardi/deep-learning/tree/master/StudentAdmissionsKeras): Using Keras to predict if a student passed or reproved.
 * [Bike Sharing Prediction](https://github.com/Zenardi/deep-learning/tree/master/bike-sharing-prediction): Predicting the number of bikes needed in a new bike sharing bussiness.
 * [Dog Breed Classifier](https://github.com/Zenardi/deep-learning/tree/master/dog-breed-classifier): Learn and predict a dog breed.
+* [Simpsons TV Script Generator](https://github.com/Zenardi/deep-learning/tree/master/Tv-Script-Generation): This code can generate a new script for the famous show The Simpsons.
 
 
 
