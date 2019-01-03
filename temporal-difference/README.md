@@ -1,6 +1,6 @@
 **Summary**
+![png](readme-imgs/screen-shot-2017-10-17-at-11.02.44-am.png)
 
-![https://d17h27t6h515a5.cloudfront.net/topher/2017/October/59e629d0_screen-shot-2017-10-17-at-11.02.44-am/screen-shot-2017-10-17-at-11.02.44-am.png](media/6c0730742c3d50d68a8cc8787ca77d72.png)
 
 **The cliff-walking task (Sutton and Barto, 2017)**
 
@@ -15,6 +15,7 @@
     parameter \\alpha*α* is sufficiently small.
 
 -   In practice, TD prediction converges faster than MC prediction.
+![png](readme-imgs/td-prediction.png)
 
 **TD Prediction: Action Values**
 
@@ -30,6 +31,8 @@
     long as the step-size parameter \\alpha*α* is sufficiently small
     and \\epsilon*ϵ* is chosen to satisfy the **Greedy in the Limit with
     Infinite Exploration (GLIE)** conditions.
+![png](readme-imgs/sarsa.png)
+
 
 **TD Control: Sarsamax**
 
@@ -37,12 +40,15 @@
     guaranteed to converge to the optimal action value function q_\**q*∗​, under
     the same conditions that guarantee convergence of the Sarsa control
     algorithm.
+ ![png](readme-imgs/sarsamax.png)   
+    
 
 **TD Control: Expected Sarsa**
 
 -   **Expected Sarsa** is an on-policy TD control method. It is guaranteed to
     converge to the optimal action value function q_\**q*∗​, under the same
     conditions that guarantee convergence of Sarsa and Sarsamax.
+ ![png](readme-imgs/expected-sarsa.png)   
 
 **Analyzing Performance**
 
