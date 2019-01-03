@@ -1,6 +1,6 @@
 # **Summary**
 
-[**The cliff-walking task (Sutton and Barto, 2017)**](https://classroom.udacity.com/nanodegrees/nd101/parts/7d0218b1-1a81-4d49-95f7-14b015020851/modules/38c16ab9-91e8-44ce-a0ce-ae1b9ba12146/lessons/d2de57a0-cd89-40bd-b87f-ec0298b425cf/concepts/7d2dafe6-e522-4a8d-beb0-e9dd6eadddfc)
+[**The cliff-walking task (Sutton and Barto, 2017)**](https://d17h27t6h515a5.cloudfront.net/topher/2017/October/59e629d0_screen-shot-2017-10-17-at-11.02.44-am/screen-shot-2017-10-17-at-11.02.44-am.png)
 
 ## **TD Prediction: TD(0)**
 
