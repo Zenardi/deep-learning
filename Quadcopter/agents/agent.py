@@ -85,12 +85,12 @@ class DDPG_Agent():
 
         # Replay memory
         self.buffer_size = 1000000
-        self.batch_size = 64
+        self.batch_size = 32
         self.memory = ReplayBuffer(self.buffer_size, self.batch_size)
 
         # Algorithm parameters
-        self.gamma = 0.99  # discount factor
-        self.tau = 0.001  # for soft update of target parameters
+        self.gamma = 0.3  # discount factor
+        self.tau = 0.00017  # for soft update of target parameters
  
     def reset_episode(self):
         self.noise.reset()
